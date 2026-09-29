@@ -1,0 +1,10 @@
+.env
+.env.local
+__pycache__/
+.venv/
+.pytest_cache/
+.next/
+node_modules/
+*.py[cod]
+chroma_data/
+*.db
